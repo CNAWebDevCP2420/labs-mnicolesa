@@ -1,0 +1,22 @@
+
+<html>
+	<head><title>PayCheck Calculations</title></head>
+	
+	<body>
+	
+		<h1>PayCheck Calculations</h1>
+		
+		<form action="Paycheck.php" method="GET">
+		
+			Enter hours worked: <input type="number" name="workhour">
+			<br>
+			Enter hourly wage: <input type="number" name="wage">
+			<br>
+
+			<input type="submit" value="Calculate">
+		
+		</form>
+	
+	</body>
+
+</html>
